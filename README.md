@@ -2,7 +2,7 @@
  
 
 
-Welcome to the Repository for Whack-A-Mole Game on Achro210T board (Embedded Program). This repository is for developing a mole game playing on embedded board. 
+Welcome to the Repository for **Whack-A-Mole Game** on Achro210T board (Embedded Program). This repository is for developing a mole game playing on embedded board. 
 
 **[Achro210T board used in Project]**
 
